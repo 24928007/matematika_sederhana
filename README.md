@@ -1,2 +1,2 @@
-# matematika_sederhana
-An example R Package
+# matematikasederhana
+ An example R package
